@@ -104,6 +104,7 @@ namespace ConsoleApp2
                         }
                         Console.WriteLine("Emeliyyat ugurla icra edildi. ");
                         break;
+                        Console.WriteLine("test");
                 }
             }
 
